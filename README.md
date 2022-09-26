@@ -1,3 +1,5 @@
+_Fork to add versioning and fix composer.json_
+
 [![Build Status](https://travis-ci.org/idimsh/php-inotify-monitor.svg?branch=master)](https://travis-ci.org/idimsh/php-inotify-monitor)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/idimsh/php-inotify-monitor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/idimsh/php-inotify-monitor/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/idimsh/php-inotify-monitor/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/idimsh/php-inotify-monitor/?branch=master)
